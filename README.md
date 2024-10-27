@@ -22,4 +22,4 @@ This Power BI project provides a comprehensive view of pizza sales data, helping
 4. **Revenue and Order Analysis:** What is the total revenue, order count, and quantity sold, providing insights into overall sales performance?
 
 
-Editing..
+Editing...
